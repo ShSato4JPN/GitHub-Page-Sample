@@ -1,0 +1,19 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+
+  font-size: 62.5%;
+}
+
+.test-area h1 {
+  font-size: 1.6rem;
+  color: orange;
+}
+
+.test-area2 {
+  font-size: 20px;
+}
+
+.test-area2 p {
+  font-size: 1.6rem;
+}
